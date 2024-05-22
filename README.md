@@ -5,7 +5,7 @@
   <h1>Hi there! 👋 I'm Vaibhavi Jaiswal</h1>
   <!-- Links to social profiles -->
   <pa>
-    <a href="https://www.linkedin.com/in/vaibhavi-jaiswal/">LinkedIn</a> - 
+    <a href="https://www.linkedin.com/in/vaibhavi-jaiswal-9b11b8265/">LinkedIn</a> - 
     <a href="https://vaibhavij20.github.io/Portfolio/">Portfolio</a> -
     <a href="https://leetcode.com/u/vaibhavij20/">Leetcode</a>
   </p> 
