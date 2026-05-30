@@ -17,7 +17,7 @@
 class Vaibhavi:
     university    = "VIT Chennai — CSE, Class of 2027"
     focus         = ["Agentic AI", "RAG Pipelines", "Full-Stack Dev", "Competitive Programming"]
-    currently     = "Building AI-powered developer tools with LangGraph & Gemini"
+    currently     = "Building developer tools with LangGraph & Gemini"
     looking_for   = "Internships · Open Source · Collaborations"
     languages     = ["English (Fluent)", "Hindi (Native)", "German (Basic)"]
     fun_fact      = "I debug faster with music on 🎧"
@@ -76,14 +76,14 @@ class Vaibhavi:
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🤖 AI Code Optimizer</b> — Multi-agent LangGraph system for Python code optimization</summary>
+<summary><b>🤖 Code Optimizer</b> — Multi-agent LangGraph system for Python code optimization</summary>
 <br>
 
 Analyzes Python code, generates optimized versions, validates improvements, and produces detailed optimization reports — built on a **multi-agent LangGraph** architecture.
 
 **How it works:**
 - Agent 1 analyzes the input code for bottlenecks
-- Agent 2 generates optimized alternatives using Gemini
+- Agent 2 generates optimized alternatives using Gemini with Ollama fallback
 - Agent 3 validates correctness and benchmarks improvements
 - FAISS-powered retrieval surfaces relevant optimization patterns
 
