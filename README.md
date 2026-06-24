@@ -120,10 +120,7 @@ Clone repo → Preprocess files → Language-aware chunking
 
 Deep learning model using **Vision Transformers (ViT)** to predict cyclone intensity from satellite imagery.
 
-| Metric | Score |
-|--------|-------|
-| MAE | 9.12 |
-| R² Score | 0.84 |
+
 
 **Stack:** `Vision Transformers` `PyTorch` `Satellite Imagery` `Deep Learning`
 
